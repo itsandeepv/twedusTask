@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.emty-heading {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  padding-top: 12px;
+  font-size: 15px;
+  font-weight: 500;
+  text-decoration: underline;
+}
